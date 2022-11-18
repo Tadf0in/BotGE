@@ -21,3 +21,13 @@ Aller sur GlobalExams -> Exercices et choisissez un exercice <strong>SANS LE LAN
 * ```NUMEXO``` : Numéro de l'entraînement
 
 ![](numeros.png)
+
+<br>
+
+### Lancement du bot
+
+Lancer le programme depuis son emplacement
+
+``` bash
+...\BotGE>py botge.py
+```
